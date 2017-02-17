@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LCustomFont.iml" filepath="$PROJECT_DIR$/LCustomFont.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-font/custom-font.iml" filepath="$PROJECT_DIR$/custom-font/custom-font.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
 </project>
