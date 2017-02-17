@@ -33,7 +33,7 @@ public class BaseApplication extends Application {
 
         HashMap<Integer, String> fontTypeMap = new HashMap<>();
         // 1st param = your attrs.xml under declare-styleable attr enum value
-        // 2nd param = your attrs.xml under declare-styleable attr enum name
+        // 2nd param = your assets path
         fontTypeMap.put(1, "fonts/SanFranciscoText-Regular.otf");
         fontTypeMap.put(2, "fonts/SanFranciscoText-Medium.otf");
         fontTypeMap.put(3, "fonts/SanFranciscoText-Bold.otf");
