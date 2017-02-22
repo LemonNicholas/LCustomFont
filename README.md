@@ -24,7 +24,7 @@ Define declare-styleadble , attr and enum name and value you want
 ```
 
 # Application
-Create new class extedns application then follow format like below,
+Create new class extedns **Application** then follow format like below,
 ```
 public class BaseApplication extends Application {
     @Override
@@ -49,7 +49,7 @@ public class BaseApplication extends Application {
 ```
 
 # AndroidManifest
-Declare application on your AndroidManifest
+Declare application on your **AndroidManifest**
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
